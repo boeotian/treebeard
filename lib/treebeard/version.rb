@@ -1,3 +1,3 @@
 module Treebeard
-	VERSION = "1"
+	VERSION = "3"
 end
